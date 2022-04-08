@@ -2935,8 +2935,13 @@ break
                                     }]
                     okok = '```'
                     okbor = `
-${okok}HARGA SEWABOT NEZUKO ADALAH RP.5000 RUPIAH
-JIKA MINAT HUBUNGI OWNER${okok}`
+╭─────────    
+│❏ >_*BY AOZORABOT#021*_
+│❏ > 𝚂𝙴𝚆𝙰 𝙱𝙾𝚃 1 𝙷𝙰𝚁𝙸 : 3.000
+│❏ > 𝚂𝙴𝚆𝙰 𝙱𝙾𝚃 1 𝙼𝙸𝙽𝙶𝙶𝚄 : 7.000
+│❏ > 𝚂𝙴𝚆𝙰 𝙱𝙾𝚃 1 𝙱𝚄𝙻𝙰𝙽 : 9.000
+│❏ > 𝚂𝙴𝚆𝙰 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽 : 10.000
+╰─────────`
 textTemplateButtons(m.chat, okbor, `Sewa Bot Nezuko`, btn1)
                     break
             case 'ig':
